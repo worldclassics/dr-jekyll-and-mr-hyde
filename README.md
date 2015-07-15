@@ -5,3 +5,6 @@
 > discourse; backward in sentiment; lean, long, dusty, dreary, and
 > yet somehow lovable.
 
+- [Story of the Door](01.md)
+- [Search for Mr. Hyde](02.md)
+
