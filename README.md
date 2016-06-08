@@ -1,4 +1,8 @@
 
+See the live version @ [`worldclassics.github.io/dr-jekyll-and-mr-hyde`](http://worldclassics.github.io/dr-jekyll-and-mr-hyde)
+
+---
+
 # Strange Case of Dr. Jekyll and Mr. Hyde
 
 by Robert Louis Stevenson
